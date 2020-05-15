@@ -9,3 +9,4 @@ Used jQuery for making the password visible.
 Used bootstrap for designs.
 I haven't checked-in folders like bin and obj.
 Also, Solution file will not be available in my check-in
+Added .zip file that includes complete project including solution file. 
